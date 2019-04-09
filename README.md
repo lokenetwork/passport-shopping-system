@@ -1,29 +1,22 @@
-# passport-shopping-system
+# 买买提商家单点登录服务器
 
-passport for single point login.In different domain,you just need login once.
-
-The project is not finished,Because I have not time.I need to find a job now.
-
-I write the all code by myself.
-
-Here is the login page
+单点登录，采用根域名cookie方法实现多网站共享cookie。
 
 
-![image](https://github.com/lokenetwork/passport-shopping-system/blob/master/project_picture/passport-login.png)
+![image](https://github.com/lokenetwork/passport-shopping-system/blob/master/project_picture/login.png)
 
 
-# The whole shopping system code link
 
-https://github.com/lokenetwork/hybird_shopping_app
+# 买买提平台关项目代码
 
-https://github.com/lokenetwork/shopkeeper_ionic_client
+客户端APP：https://github.com/lokenetwork/hybird_shopping_app
 
-https://github.com/lokenetwork/shopping-php-server
+PHP接口服务器：https://github.com/lokenetwork/shopping-php-server
 
-https://github.com/lokenetwork/shopping-chat-server
+GO聊天服务器：https://github.com/lokenetwork/shopping-chat-server
 
-https://github.com/lokenetwork/passport-shopping-system
+通行证服务器（单点登录）：https://github.com/lokenetwork/passport-shopping-system
 
-https://github.com/lokenetwork/shop-manage
+商家后台：https://github.com/lokenetwork/shop-manage
 
-https://github.com/lokenetwork/admin-shopping
+总平台后台：https://github.com/lokenetwork/admin-shopping
